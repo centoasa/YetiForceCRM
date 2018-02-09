@@ -7,6 +7,7 @@
  */
 $languageStrings = [
 	'SVendorEnquiries' => 'Ordini di acquisto',
+	'LBL_SCALCULATIONS_INFORMATION' => 'Dettagli',
 	'SQuoteEnquiries' => 'Sales enquiries',
 	'SINGLE_SQuoteEnquiries' => 'Sales enquiry',
 	//BLOCKS
